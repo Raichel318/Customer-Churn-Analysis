@@ -45,8 +45,9 @@ Designed to help business analysts, CRM strategists, and data science teams to:
 
 This dashboard was developed to demonstrate how analytics can demystify customer churn patterns and support strategic decision-making. Thanks to educational resources and open datasets that guided the visual storytelling.
 
----
-
 Feel free to explore, customize, and build on this solution!
+
+
+
 <img width="1145" alt="Customer Churn Analysis" src="https://github.com/user-attachments/assets/b544f0fa-6286-46c6-b77c-6380aa2d3515" />
 
